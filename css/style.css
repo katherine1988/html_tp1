@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: honeydew;
+} 
+
+header{
+    height: 60vh;
+    background-image: url(../imagenes/tingey-injury-law-firm-yCdPU73kGSc-unsplash.jpg);
+    background-attachment: fixed;
+    background-position: left ;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}  
+span{
+    align-items: center; 
+    flex-direction: row;
+
+}
+main .div{
+
+    justify-content: center;
+} 
